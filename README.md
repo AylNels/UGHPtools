@@ -8,6 +8,7 @@ tools for data analysis under the UnderGraduate Heterosis Project
 ####Shared Data Columns:
 * SeedID = individual seed identifier (planting - geno_cross - parent_plant – tray_in_planting)
 * Geno_Cross = intended cross type
+* Geno_Actual= actual cross type
 
 ####Phenotype: Plant growth data
 * Date= day measurement was taken from
